@@ -1,7 +1,12 @@
-body {
-    background-color:blue b;
+body{
+    background-color:blue;
 }
-u1{
-    background-color: black;
+
+ul{
+    background-color:black;
     color:white;
+}
+
+ul li{
+    display:inline;
 }
