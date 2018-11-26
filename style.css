@@ -1,10 +1,10 @@
 body{
-    background-color:blue;
+    background-color:#99FFFF;
 }
 
 ul{
-    background-color:blue;
-    color:white;
+    background-color:#99FFFF;
+    color:black;
 }
 
 ul li{
@@ -12,8 +12,8 @@ ul li{
 }
 
 
-a{background-color: yellow ;
-transition: all 2s;
+a{background-color: white ;
+transition: all 1s;
 padding:1px;
 }
 
